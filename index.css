@@ -63,7 +63,8 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, 
 /*-------------------topnavbar-------------------------*/
 
 .nav-links {
-    background-color: #f7f7f7;
+    background-color: #ece7e7;
+    
     border-top: 4px solid #222
 }
 .menu-top{
@@ -113,9 +114,12 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, 
 /*-------------------headersection start-------------------------*/
 
 
-
 .site-header {
     padding-top: 40px;
+    background-image:url(ch.jpg) ;
+    height: 400px;
+
+  
 }
 .header-image .site-header .wrap {
     padding: 0;
@@ -144,6 +148,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, 
     font-size: 48px;
     line-height: 1;
     margin-bottom: 0;
+  
 }
 .custom-header .site-title a {
     background: url(../images/1011/sharkclue.jpg) no-repeat left!important;
